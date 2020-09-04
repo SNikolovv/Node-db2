@@ -10,7 +10,7 @@
   "license": "ISC",
   "private": true,
   "dependencies": {
-    "ibm_db": "^1.0.1"
+    "ibm_db": "^2.7.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
